@@ -1,2 +1,2 @@
-# Sentiment_Analysis_Process
-Sentiment Analysis Process
+# Sentiment_Analysis_Project
+Sentiment Analysis Project
